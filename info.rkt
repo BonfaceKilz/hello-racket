@@ -1,5 +1,7 @@
 #lang setup/infotab
 
+(define collection "hello-world")
+
 (define name "hello-world")
 
 (define blurb
